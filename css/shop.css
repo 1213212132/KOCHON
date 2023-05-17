@@ -1,0 +1,36 @@
+.case0 {
+    font-size: 26px;
+    line-height: 38px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+
+
+}
+
+.case00 {
+    font-size: 18px;
+    margin-top: 12px;
+    color: #626262;
+    line-height: 27px;
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+
+}
+
+
+
+.shop .inner {
+    max-width: 1530px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    justify-content: center;
+
+
+
+
+}
