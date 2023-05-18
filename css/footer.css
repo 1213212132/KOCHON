@@ -18,7 +18,8 @@
     justify-content: center;
     gap: 30px;
     background: white;
-
+    margin-top: 3%;
+    padding-bottom: 3%;
 }
 
 .case1 {
@@ -27,7 +28,7 @@
     justify-content: center;
     gap: 30px;
     background: white;
-
+    padding-bottom: 3%;
 
 }
 
@@ -36,7 +37,7 @@
     display: flex;
     justify-content: center;
     background: white;
-
+    margin-top: 0;
 
 
 }
