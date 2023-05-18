@@ -33,6 +33,18 @@
     justify-content: center;
 
 
+}
 
 
+
+.shop .inner .box1 figure img {
+    transition: 0.5s;
+
+}
+
+
+
+.shop .inner .box1 figure:hover img {
+
+    transform: scale(1.2);
 }

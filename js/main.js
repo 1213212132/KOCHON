@@ -12,12 +12,21 @@ $(function () {
             speed: 300,
             slidesToShow: 1,
             adaptiveHeight: true,
-            prevArrow: $('#prevArrow'), // 좌 (이전) 화살표만 변경 (선택자 혹은 $(element))
+            prevArrow: $('#prevArrow'),
             nextArrow: $('#nextArrow'),
 
         }
+
+
     );
     // arrows: false,
+    $('.arrows .left').on('click', function () {
+        $('.mainSlide').slick('slickPrev');
+    })
+    $('.arrows .right').on('click', function () {
+        $('.mainSlide').slick('slickNext');
+    });
+
 
 });
 

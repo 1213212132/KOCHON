@@ -1,0 +1,47 @@
+.main_visual.arrows {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 100px;
+    width: 100%;
+    max-width: 1500px;
+
+
+}
+
+.main_visual:hover .arrows {
+
+    display: block;
+
+}
+
+.main_visual .arrows i {
+
+    font-size: 20px;
+    color: #fff;
+    background: bisque;
+    padding: 10px;
+
+
+
+}
+
+.main_visual .arrows .left {
+
+    position: absolute;
+    top: 20%;
+    left: 15px;
+
+
+}
+
+.main_visual .arrows .right {
+
+    position: absolute;
+    top: 20%;
+    right: 15px;
+
+
+}

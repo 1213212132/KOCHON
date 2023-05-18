@@ -326,6 +326,13 @@ ul {
     background: #333;
 }
 
+figure .box {
+    background: #f9f9f9;
+    border-radius: 50%;
+}
+
+
+
 figure .box img {
     transition: 0.5s;
 
@@ -335,9 +342,4 @@ figure .box img {
 figure:hover .box img {
 
     transform: scale(1.1);
-}
-
-figure .box {
-    background: #f9f9f9;
-    border-radius: 50%;
 }

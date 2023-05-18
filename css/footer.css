@@ -40,18 +40,3 @@
 
 
 }
-
-.gnb>ul>li~li::before {
-
-    content: "";
-
-    position: absolute;
-
-    top: 50%;
-    left: -20px;
-    transform: translate(-50%, -50%);
-    width: 1px;
-    height: 12px;
-    background: black;
-
-}
