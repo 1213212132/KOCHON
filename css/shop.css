@@ -3,6 +3,7 @@
     line-height: 38px;
     font-weight: 600;
     display: flex;
+    background: white;
     justify-content: center;
     margin-top: 100px;
 
@@ -14,7 +15,7 @@
     margin-top: 12px;
     color: #626262;
     line-height: 27px;
-
+    background: white;
     display: flex;
     justify-content: center;
     margin-top: 50px;
