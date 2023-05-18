@@ -4,6 +4,7 @@ $(function () {
     $('.mainSlide').slick(
 
         {
+            dots: true,
             infinite: true,
             autoplay: true,      //자동시작 (boolean) -default:false
             autoplaySpeed: 3000,
