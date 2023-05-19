@@ -1,34 +1,35 @@
 .footer {
-    display: block;
-
-}
-
-.footer {
     position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
-    background: white;
+    background: #f9f9f9;
+
+
 }
 
 .case {
 
-
+    padding-top: 1%;
     display: flex;
     justify-content: center;
     gap: 30px;
-    background: white;
-    margin-top: 3%;
-    padding-bottom: 3%;
+    background: #f9f9f9;
+
+
+
 }
 
 .case1 {
 
+
     display: flex;
     justify-content: center;
     gap: 30px;
-    background: white;
-    padding-bottom: 3%;
+    background: #f9f9f9;
+    margin-top: 0 auto;
+    padding-top: 1%;
+
 
 }
 
@@ -36,8 +37,6 @@
 
     display: flex;
     justify-content: center;
-    background: white;
-    margin-top: 0;
-
-
+    background: #f9f9f9;
+    padding-top: 1%;
 }
